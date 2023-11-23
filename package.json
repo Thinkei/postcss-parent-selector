@@ -1,6 +1,6 @@
 {
   "name": "postcss-parent-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin for adding a parent selector to all rules in a css file.",
   "keywords": [
     "postcss",
@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/domwashburn/postcss-parent-selector",
   "dependencies": {
-    "postcss": "^5.2.5"
+    "postcss": "^8.4.31"
   },
   "devDependencies": {
     "ava": "^0.16.0",
